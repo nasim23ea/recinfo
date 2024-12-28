@@ -1,0 +1,760 @@
+Air Force,48,vs,Georgia State,14
+Air Force,27,at,Utah State,20
+Air Force,28,vs,Navy,14
+Air Force,26,at,Wyoming,35
+Air Force,40,vs,New Mexico,45
+Air Force,27,vs,Hawaii,34
+Air Force,31,at,Fresno State,21
+Air Force,31,at,Army,12
+Air Force,49,vs,Colorado State,46
+Air Force,41,at,San Jose State,38
+Air Force,27,vs,Boise State,20
+Air Force,45,vs,South Alabama,21
+Akron,10,at,Wisconsin,54
+Akron,65,at,Marshall,38
+Akron,38,vs,Appalachian State,45
+Akron,31,at,Kent,27
+Akron,35,vs,Miami (Ohio),13
+Akron,0,vs,Western Michigan,41
+Akron,35,at,Ball State,25
+Akron,20,at,Buffalo,41
+Akron,17,vs,Toledo,48
+Akron,28,vs,Bowling Green State,38
+Akron,3,at,Ohio,9
+Alabama,52,vs,Southern California,6
+Alabama,38,vs,Western Kentucky,10
+Alabama,48,at,Mississippi,43
+Alabama,48,vs,Kent,0
+Alabama,34,vs,Kentucky,6
+Alabama,49,at,Arkansas,30
+Alabama,49,at,Tennessee,10
+Alabama,33,vs,Texas A&M,14
+Alabama,10,at,Louisiana State,0
+Alabama,51,vs,Mississippi State,3
+Alabama,30,vs,Auburn,12
+Alabama,54,vs,Florida,16
+Alabama,24,vs,Washington,7
+Alabama,31,vs,Clemson,35
+Appalachian State,13,at,Tennessee,20
+Appalachian State,31,vs,Old Dominion,7
+Appalachian State,10,vs,Miami (Florida),45
+Appalachian State,17,vs,Georgia State,3
+Appalachian State,24,at,Louisiana-Lafayette,0
+Appalachian State,37,vs,Idaho,19
+Appalachian State,34,at,Georgia Southern,10
+Appalachian State,35,vs,Texas State,10
+Appalachian State,24,at,Troy,28
+Appalachian State,42,vs,Louisiana-Monroe,17
+Appalachian State,37,at,New Mexico State,7
+Appalachian State,31,vs,Toledo,28
+Arizona,16,vs,Brigham Young,18
+Arizona,47,vs,Hawaii,28
+Arizona,28,vs,Washington,35
+Arizona,24,at,UCLA,45
+Arizona,23,at,Utah,36
+Arizona,14,vs,Southern California,48
+Arizona,10,vs,Stanford,34
+Arizona,7,at,Washington State,69
+Arizona,24,vs,Colorado,49
+Arizona,17,at,Oregon State,42
+Arizona,56,vs,Arizona State,35
+Arizona State,68,vs,Texas Tech,55
+Arizona State,32,at,Texas-San Antonio,28
+Arizona State,51,vs,California,41
+Arizona State,20,at,Southern California,41
+Arizona State,23,vs,UCLA,20
+Arizona State,16,at,Colorado,40
+Arizona State,32,vs,Washington State,37
+Arizona State,35,at,Oregon,54
+Arizona State,26,vs,Utah,49
+Arizona State,18,at,Washington,44
+Arkansas,21,vs,Louisiana Tech,20
+Arkansas,41,at,Texas Christian,38
+Arkansas,42,vs,Texas State,3
+Arkansas,24,vs,Texas A&M,45
+Arkansas,34,vs,Mississippi,30
+Arkansas,3,at,Auburn,56
+Arkansas,31,vs,Florida,10
+Arkansas,10,vs,Louisiana State,38
+Arkansas,58,at,Mississippi State,42
+Arkansas,24,at,Missouri,28
+Arkansas,24,vs,Virginia Tech,35
+Arkansas State,10,vs,Toledo,31
+Arkansas State,14,at,Auburn,51
+Arkansas State,20,at,Utah State,34
+Arkansas State,27,vs,Georgia Southern,26
+Arkansas State,17,vs,South Alabama,7
+Arkansas State,51,vs,Louisiana-Monroe,10
+Arkansas State,31,at,Georgia State,16
+Arkansas State,41,vs,New Mexico State,22
+Arkansas State,35,at,Troy,3
+Arkansas State,19,at,Louisiana-Lafayette,24
+Arkansas State,36,at,Texas State,14
+Arkansas State,31,vs,Central Florida,13
+Army,28,at,Temple,13
+Army,31,vs,Rice,14
+Army,66,at,Texas-El Paso,14
+Army,20,at,Buffalo,23
+Army,6,at,Duke,13
+Army,18,vs,North Texas,35
+Army,21,at,Wake Forest,13
+Army,6,vs,Notre Dame,44
+Army,21,vs,Navy,17
+Army,38,vs,North Texas,31
+Auburn,13,vs,Clemson,19
+Auburn,16,vs,Texas A&M,29
+Auburn,18,vs,Louisiana State,13
+Auburn,58,vs,Louisiana-Monroe,7
+Auburn,38,at,Mississippi State,14
+Auburn,40,at,Mississippi,29
+Auburn,23,vs,Vanderbilt,16
+Auburn,7,at,Georgia,13
+Auburn,19,vs,Oklahoma,35
+Ball State,31,at,Georgia State,21
+Ball State,20,at,Indiana,30
+Ball State,31,at,Florida Atlantic,27
+Ball State,24,vs,Northern Illinois,31
+Ball State,21,at,Central Michigan,24
+Ball State,31,at,Buffalo,21
+Ball State,20,vs,Western Michigan,52
+Ball State,41,vs,Eastern Michigan,48
+Ball State,19,at,Toledo,37
+Ball State,20,at,Miami (Ohio),21
+Baylor,40,vs,Southern Methodist,13
+Baylor,38,at,Rice,10
+Baylor,35,vs,Oklahoma State,24
+Baylor,45,at,Iowa State,42
+Baylor,49,vs,Kansas,7
+Baylor,34,at,Texas,35
+Baylor,22,vs,Texas Christian,62
+Baylor,24,at,Oklahoma,45
+Baylor,21,vs,Kansas State,42
+Baylor,35,at,Texas Tech,54
+Baylor,21,at,West Virginia,24
+Baylor,31,vs,Boise State,12
+Boise State,45,at,Louisiana-Lafayette,10
+Boise State,31,vs,Washington State,28
+Boise State,38,at,Oregon State,24
+Boise State,21,vs,Utah State,10
+Boise State,49,at,New Mexico,21
+Boise State,28,vs,Colorado State,23
+Boise State,28,vs,Brigham Young,27
+Boise State,28,at,Wyoming,30
+Boise State,45,vs,San Jose State,31
+Boise State,52,at,Hawaii,16
+Boise State,42,vs,Nevada-Las Vegas,25
+Boston College,14,vs,Georgia Tech,17
+Boston College,26,vs,Massachusetts,7
+Boston College,0,at,Virginia Tech,49
+Boston College,35,vs,Buffalo,3
+Boston College,10,vs,Clemson,56
+Boston College,20,vs,Syracuse,28
+Boston College,21,at,North Carolina State,14
+Boston College,7,vs,Louisville,52
+Boston College,7,at,Florida State,45
+Boston College,30,vs,Connecticut,0
+Boston College,17,at,Wake Forest,14
+Boston College,36,vs,Maryland,30
+Bowling Green State,10,at,Ohio State,77
+Bowling Green State,21,vs,Middle Tennessee State,41
+Bowling Green State,3,at,Memphis,77
+Bowling Green State,25,vs,Eastern Michigan,28
+Bowling Green State,24,at,Ohio,30
+Bowling Green State,35,at,Toledo,42
+Bowling Green State,26,vs,Miami (Ohio),40
+Bowling Green State,20,at,Northern Illinois,45
+Bowling Green State,42,vs,Kent,7
+Bowling Green State,27,vs,Buffalo,19
+Brigham Young,19,at,Utah,20
+Brigham Young,14,vs,UCLA,17
+Brigham Young,32,vs,West Virginia,35
+Brigham Young,55,vs,Toledo,53
+Brigham Young,31,at,Michigan State,14
+Brigham Young,28,vs,Mississippi State,21
+Brigham Young,20,at,Cincinnati,3
+Brigham Young,51,vs,Massachusetts,9
+Brigham Young,28,vs,Utah State,10
+Brigham Young,24,vs,Wyoming,21
+Buffalo,14,at,Nevada,38
+Buffalo,20,vs,Kent,44
+Buffalo,7,at,Northern Illinois,44
+Buffalo,10,at,Ohio,34
+Buffalo,24,vs,Miami (Ohio),35
+Buffalo,0,at,Western Michigan,38
+California,51,vs,Hawaii,31
+California,40,at,San Diego State,45
+California,50,vs,Texas,43
+California,28,vs,Utah,23
+California,44,at,Oregon State,47
+California,52,vs,Oregon,49
+California,24,at,Southern California,45
+California,27,vs,Washington,66
+California,21,at,Washington State,56
+California,31,vs,Stanford,45
+California,36,vs,UCLA,10
+Central Florida,14,at,Michigan,51
+Central Florida,24,vs,Maryland,30
+Central Florida,53,at,Florida International,14
+Central Florida,47,at,East Carolina,29
+Central Florida,25,vs,Temple,26
+Central Florida,24,at,Connecticut,16
+Central Florida,24,at,Houston,31
+Central Florida,37,vs,Tulane,6
+Central Florida,24,vs,Cincinnati,3
+Central Florida,20,vs,Tulsa,35
+Central Florida,31,at,South Florida,48
+Central Michigan,30,at,Oklahoma State,27
+Central Michigan,44,vs,Nevada-Las Vegas,21
+Central Michigan,35,at,Virginia,49
+Central Michigan,10,vs,Western Michigan,49
+Central Michigan,34,at,Northern Illinois,28
+Central Michigan,17,at,Toledo,31
+Central Michigan,24,vs,Kent,27
+Central Michigan,17,at,Miami (Ohio),37
+Central Michigan,27,vs,Ohio,20
+Central Michigan,21,at,Eastern Michigan,26
+Central Michigan,10,vs,Tulsa,55
+Charlotte,14,at,Louisville,70
+Charlotte,19,vs,Eastern Michigan,37
+Charlotte,20,at,Temple,48
+Charlotte,17,vs,Old Dominion,52
+Charlotte,28,at,Florida Atlantic,23
+Charlotte,26,vs,Florida International,27
+Charlotte,27,at,Marshall,24
+Charlotte,38,at,Southern Mississippi,27
+Charlotte,21,vs,Rice,22
+Charlotte,31,vs,Middle Tennessee State,38
+Charlotte,14,at,Texas-San Antonio,33
+Cincinnati,38,at,Purdue,20
+Cincinnati,16,vs,Houston,40
+Cincinnati,27,vs,Miami (Ohio),20
+Cincinnati,20,vs,South Florida,45
+Cincinnati,9,at,Connecticut,20
+Cincinnati,31,vs,East Carolina,19
+Cincinnati,13,at,Temple,34
+Cincinnati,7,vs,Memphis,34
+Cincinnati,37,at,Tulsa,40
+Clemson,30,vs,Troy,24
+Clemson,26,at,Georgia Tech,7
+Clemson,42,vs,Louisville,36
+Clemson,24,vs,North Carolina State,17
+Clemson,37,at,Florida State,34
+Clemson,54,vs,Syracuse,0
+Clemson,42,vs,Pittsburgh,43
+Clemson,35,at,Wake Forest,13
+Clemson,56,vs,South Carolina,7
+Clemson,42,vs,Virginia Tech,35
+Clemson,31,vs,Ohio State,0
+Colorado,44,vs,Colorado State,7
+Colorado,28,at,Michigan,45
+Colorado,41,at,Oregon,38
+Colorado,47,vs,Oregon State,6
+Colorado,17,at,Southern California,21
+Colorado,10,at,Stanford,5
+Colorado,20,vs,UCLA,10
+Colorado,38,vs,Washington State,24
+Colorado,27,vs,Utah,22
+Colorado,10,vs,Washington,41
+Colorado,8,vs,Oklahoma State,38
+Colorado State,23,vs,Texas-San Antonio,14
+Colorado State,24,at,Minnesota,31
+Colorado State,17,vs,Wyoming,38
+Colorado State,31,vs,Utah State,24
+Colorado State,42,at,Nevada-Las Vegas,23
+Colorado State,37,vs,Fresno State,0
+Colorado State,49,vs,New Mexico,13
+Colorado State,63,at,San Diego State,31
+Colorado State,50,vs,Idaho,61
+Connecticut,24,at,Navy,28
+Connecticut,13,vs,Virginia,10
+Connecticut,24,vs,Syracuse,31
+Connecticut,14,at,Houston,42
+Connecticut,27,at,South Florida,42
+Connecticut,3,at,East Carolina,41
+Connecticut,0,vs,Temple,21
+Connecticut,13,vs,Tulane,38
+Duke,14,vs,Wake Forest,24
+Duke,13,at,Northwestern,24
+Duke,38,at,Notre Dame,35
+Duke,20,vs,Virginia,34
+Duke,14,at,Louisville,24
+Duke,35,at,Georgia Tech,38
+Duke,21,vs,Virginia Tech,24
+Duke,28,vs,North Carolina,27
+Duke,14,at,Pittsburgh,56
+Duke,21,at,Miami (Florida),40
+East Carolina,33,vs,North Carolina State,30
+East Carolina,15,at,South Carolina,20
+East Carolina,17,at,Virginia Tech,54
+East Carolina,22,at,South Florida,38
+East Carolina,24,at,Tulsa,45
+East Carolina,31,vs,Southern Methodist,55
+East Carolina,31,vs,Navy,66
+East Carolina,10,at,Temple,37
+Eastern Michigan,21,at,Missouri,61
+Eastern Michigan,27,vs,Wyoming,24
+Eastern Michigan,20,vs,Toledo,35
+Eastern Michigan,27,at,Ohio,20
+Eastern Michigan,31,at,Western Michigan,45
+Eastern Michigan,15,vs,Miami (Ohio),28
+Eastern Michigan,24,vs,Northern Illinois,31
+Eastern Michigan,20,vs,Old Dominion,24
+Florida,24,vs,Massachusetts,7
+Florida,45,vs,Kentucky,7
+Florida,32,vs,North Texas,0
+Florida,28,at,Tennessee,38
+Florida,13,at,Vanderbilt,6
+Florida,40,vs,Missouri,14
+Florida,24,vs,Georgia,10
+Florida,20,vs,South Carolina,7
+Florida,16,at,Louisiana State,10
+Florida,13,at,Florida State,31
+Florida,30,vs,Iowa,3
+Florida Atlantic,10,at,Miami (Florida),38
+Florida Atlantic,7,at,Kansas State,63
+Florida Atlantic,31,at,Florida International,33
+Florida Atlantic,21,at,Marshall,27
+Florida Atlantic,3,vs,Western Kentucky,52
+Florida Atlantic,42,at,Rice,25
+Florida Atlantic,35,vs,Texas-El Paso,31
+Florida Atlantic,24,vs,Old Dominion,42
+Florida Atlantic,56,at,Middle Tennessee State,77
+Florida International,31,vs,Indiana,34
+Florida International,14,vs,Maryland,41
+Florida International,13,at,Massachusetts,21
+Florida International,35,at,Texas-El Paso,21
+Florida International,24,vs,Louisiana Tech,44
+Florida International,35,vs,Middle Tennessee State,42
+Florida International,21,at,Western Kentucky,49
+Florida International,31,vs,Marshall,14
+Florida International,28,at,Old Dominion,42
+Florida State,45,vs,Mississippi,34
+Florida State,20,at,Louisville,63
+Florida State,55,at,South Florida,35
+Florida State,35,vs,North Carolina,37
+Florida State,20,at,Miami (Florida),19
+Florida State,17,vs,Wake Forest,6
+Florida State,24,at,North Carolina State,20
+Florida State,45,at,Syracuse,14
+Florida State,33,vs,Michigan,32
+Fresno State,10,at,Nebraska,43
+Fresno State,17,at,Toledo,52
+Fresno State,41,vs,Tulsa,48
+Fresno State,20,at,Nevada-Las Vegas,45
+Fresno State,22,at,Nevada,27
+Fresno State,3,vs,San Diego State,17
+Fresno State,20,at,Utah State,38
+Fresno State,13,vs,Hawaii,14
+Fresno State,14,vs,San Jose State,16
+Georgia,33,vs,North Carolina,24
+Georgia,28,at,Missouri,27
+Georgia,14,at,Mississippi,45
+Georgia,31,vs,Tennessee,34
+Georgia,28,at,South Carolina,14
+Georgia,16,vs,Vanderbilt,17
+Georgia,27,at,Kentucky,24
+Georgia,35,vs,Louisiana-Lafayette,21
+Georgia,27,vs,Georgia Tech,28
+Georgia,31,vs,Texas Christian,23
+Georgia Southern,24,at,South Alabama,9
+Georgia Southern,23,vs,Louisiana-Monroe,21
+Georgia Southern,31,at,Western Michigan,49
+Georgia Southern,24,at,Georgia Tech,35
+Georgia Southern,22,at,New Mexico State,19
+Georgia Southern,27,at,Mississippi,37
+Georgia Southern,26,vs,Louisiana-Lafayette,33
+Georgia Southern,24,at,Georgia State,30
+Georgia Southern,28,vs,Troy,24
+Georgia State,17,at,Wisconsin,23
+Georgia State,41,vs,Texas State,21
+Georgia State,21,at,Troy,31
+Georgia State,10,at,South Alabama,13
+Georgia State,23,vs,Louisiana-Monroe,37
+Georgia State,12,at,Idaho,37
+Georgia Tech,38,vs,Vanderbilt,7
+Georgia Tech,21,vs,Miami (Florida),35
+Georgia Tech,34,at,Pittsburgh,37
+Georgia Tech,20,at,North Carolina,48
+Georgia Tech,30,at,Virginia Tech,20
+Georgia Tech,31,vs,Virginia,17
+Georgia Tech,33,vs,Kentucky,18
+Hawaii,3,at,Michigan,63
+Hawaii,38,vs,Nevada,17
+Hawaii,34,at,San Jose State,17
+Hawaii,38,vs,Nevada-Las Vegas,41
+Hawaii,21,vs,New Mexico,28
+Hawaii,0,at,San Diego State,55
+Hawaii,46,vs,Massachusetts,40
+Hawaii,52,vs,Middle Tennessee State,35
+Houston,33,vs,Oklahoma,23
+Houston,64,at,Texas State,3
+Houston,40,at,Navy,46
+Houston,38,vs,Tulsa,31
+Houston,16,at,Southern Methodist,38
+Houston,30,vs,Tulane,18
+Houston,36,vs,Louisville,10
+Houston,44,at,Memphis,48
+Houston,10,vs,San Diego State,34
+Idaho,14,at,Washington,59
+Idaho,6,at,Washington State,56
+Idaho,33,at,Nevada-Las Vegas,30
+Idaho,13,vs,Troy,34
+Idaho,34,at,Louisiana-Monroe,31
+Idaho,55,vs,New Mexico State,23
+Idaho,23,at,Louisiana-Lafayette,13
+Idaho,47,at,Texas State,14
+Idaho,38,vs,South Alabama,31
+Illinois,23,vs,North Carolina,48
+Illinois,10,vs,Western Michigan,34
+Illinois,16,at,Nebraska,31
+Illinois,31,vs,Purdue,34
+Illinois,24,at,Rutgers,7
+Illinois,8,at,Michigan,41
+Illinois,17,vs,Minnesota,40
+Illinois,31,vs,Michigan State,27
+Illinois,3,at,Wisconsin,48
+Illinois,0,vs,Iowa,28
+Illinois,21,at,Northwestern,42
+Indiana,28,vs,Wake Forest,33
+Indiana,24,vs,Michigan State,21
+Indiana,17,at,Ohio State,38
+Indiana,22,vs,Nebraska,27
+Indiana,14,at,Northwestern,24
+Indiana,42,vs,Maryland,36
+Indiana,33,at,Rutgers,27
+Indiana,31,vs,Penn State,45
+Indiana,10,at,Michigan,20
+Indiana,26,vs,Purdue,24
+Indiana,24,vs,Utah,26
+Iowa,45,vs,Miami (Ohio),21
+Iowa,42,vs,Iowa State,3
+Iowa,14,at,Rutgers,7
+Iowa,31,vs,Northwestern,38
+Iowa,14,at,Minnesota,7
+Iowa,49,at,Purdue,35
+Iowa,9,vs,Wisconsin,17
+Iowa,14,at,Penn State,41
+Iowa,14,vs,Michigan,13
+Iowa,40,vs,Nebraska,10
+Iowa State,20,at,Texas Christian,41
+Iowa State,44,vs,San Jose State,10
+Iowa State,31,at,Oklahoma State,38
+Iowa State,6,at,Texas,27
+Iowa State,26,vs,Kansas State,31
+Iowa State,24,vs,Oklahoma,34
+Iowa State,31,at,Kansas,24
+Iowa State,66,vs,Texas Tech,10
+Iowa State,19,vs,West Virginia,49
+Kansas,21,vs,Ohio,37
+Kansas,7,at,Memphis,43
+Kansas,19,at,Texas Tech,55
+Kansas,23,vs,Texas Christian,24
+Kansas,20,vs,Oklahoma State,44
+Kansas,3,at,Oklahoma,56
+Kansas,21,at,West Virginia,48
+Kansas,24,vs,Texas,21
+Kansas,19,at,Kansas State,34
+Kansas State,13,at,Stanford,26
+Kansas State,16,at,West Virginia,17
+Kansas State,44,vs,Texas Tech,38
+Kansas State,17,at,Oklahoma,38
+Kansas State,24,vs,Texas,21
+Kansas State,37,vs,Oklahoma State,43
+Kansas State,30,at,Texas Christian,6
+Kansas State,33,vs,Texas A&M,28
+Kent,13,at,Penn State,33
+Kent,14,at,Miami (Ohio),18
+Kent,10,vs,Ohio,14
+Kent,21,vs,Western Michigan,37
+Kent,21,vs,Northern Illinois,31
+Kentucky,35,vs,Southern Mississippi,44
+Kentucky,62,vs,New Mexico State,42
+Kentucky,17,vs,South Carolina,10
+Kentucky,20,vs,Vanderbilt,13
+Kentucky,40,vs,Mississippi State,38
+Kentucky,35,at,Missouri,21
+Kentucky,36,at,Tennessee,49
+Kentucky,41,at,Louisville,38
+Louisiana State,14,vs,Wisconsin,16
+Louisiana State,23,vs,Mississippi State,20
+Louisiana State,42,vs,Missouri,7
+Louisiana State,45,vs,Southern Mississippi,10
+Louisiana State,38,vs,Mississippi,21
+Louisiana State,54,at,Texas A&M,39
+Louisiana State,29,vs,Louisville,9
+Louisiana Tech,45,at,Texas Tech,59
+Louisiana Tech,34,at,Middle Tennessee State,38
+Louisiana Tech,28,vs,Texas-El Paso,7
+Louisiana Tech,55,vs,Western Kentucky,52
+Louisiana Tech,56,vs,Massachusetts,28
+Louisiana Tech,61,vs,Rice,16
+Louisiana Tech,45,at,North Texas,24
+Louisiana Tech,63,vs,Texas-San Antonio,35
+Louisiana Tech,24,at,Southern Mississippi,39
+Louisiana Tech,44,vs,Western Kentucky,58
+Louisiana Tech,48,vs,Navy,45
+Louisiana-Lafayette,28,vs,South Alabama,23
+Louisiana-Lafayette,39,at,Tulane,41
+Louisiana-Lafayette,31,at,New Mexico State,37
+Louisiana-Lafayette,27,at,Texas State,3
+Louisiana-Lafayette,30,at,Louisiana-Monroe,3
+Louisiana-Lafayette,21,vs,Southern Mississippi,28
+Louisiana-Monroe,17,at,Oklahoma,59
+Louisiana-Monroe,40,vs,Texas State,34
+Louisiana-Monroe,17,at,New Mexico,59
+Louisiana-Monroe,42,vs,South Alabama,35
+Louisville,62,at,Syracuse,28
+Louisville,59,at,Marshall,28
+Louisville,54,vs,North Carolina State,13
+Louisville,32,at,Virginia,25
+Louisville,44,vs,Wake Forest,12
+Marshall,27,at,Pittsburgh,43
+Marshall,21,at,North Texas,38
+Marshall,14,at,Southern Mississippi,24
+Marshall,14,at,Old Dominion,38
+Marshall,42,vs,Middle Tennessee State,17
+Marshall,6,vs,Western Kentucky,60
+Maryland,50,vs,Purdue,7
+Maryland,14,at,Penn State,38
+Maryland,10,vs,Minnesota,31
+Maryland,28,vs,Michigan State,17
+Maryland,3,at,Michigan,59
+Maryland,3,vs,Ohio State,62
+Maryland,7,at,Nebraska,28
+Maryland,31,vs,Rutgers,13
+Massachusetts,35,vs,Mississippi State,47
+Massachusetts,24,vs,Tulane,31
+Massachusetts,16,at,Old Dominion,36
+Massachusetts,28,at,South Carolina,34
+Massachusetts,31,at,Troy,52
+Memphis,28,at,Mississippi,48
+Memphis,34,vs,Temple,27
+Memphis,24,at,Tulane,14
+Memphis,28,at,Navy,42
+Memphis,30,vs,Tulsa,59
+Memphis,51,at,Southern Methodist,7
+Memphis,42,vs,South Florida,49
+Memphis,31,vs,Western Kentucky,51
+Miami (Florida),13,vs,North Carolina,20
+Miami (Florida),16,at,Virginia Tech,37
+Miami (Florida),27,at,Notre Dame,30
+Miami (Florida),51,vs,Pittsburgh,28
+Miami (Florida),34,at,Virginia,14
+Miami (Florida),27,at,North Carolina State,13
+Miami (Florida),31,vs,West Virginia,14
+Miami (Ohio),24,vs,Western Kentucky,31
+Miami (Ohio),7,vs,Ohio,17
+Miami (Ohio),16,vs,Mississippi State,17
+Michigan,49,vs,Penn State,10
+Michigan,14,vs,Wisconsin,7
+Michigan,78,at,Rutgers,0
+Michigan,32,at,Michigan State,23
+Michigan,27,at,Ohio State,30
+Michigan State,36,at,Notre Dame,28
+Michigan State,6,vs,Wisconsin,30
+Michigan State,40,vs,Northwestern,54
+Michigan State,49,vs,Rutgers,0
+Michigan State,16,vs,Ohio State,17
+Michigan State,12,at,Penn State,45
+Middle Tennessee State,24,at,Vanderbilt,47
+Middle Tennessee State,30,at,North Texas,13
+Middle Tennessee State,43,vs,Western Kentucky,44
+Middle Tennessee State,51,at,Missouri,45
+Middle Tennessee State,25,vs,Texas-San Antonio,45
+Minnesota,30,vs,Oregon State,23
+Minnesota,26,at,Penn State,29
+Minnesota,34,vs,Rutgers,32
+Minnesota,44,vs,Purdue,31
+Minnesota,17,at,Nebraska,24
+Minnesota,29,vs,Northwestern,12
+Minnesota,17,at,Wisconsin,31
+Minnesota,17,vs,Washington State,12
+Mississippi,29,at,Texas A&M,28
+Mississippi,17,at,Vanderbilt,38
+Mississippi,20,vs,Mississippi State,55
+Mississippi State,20,vs,South Alabama,21
+Mississippi State,27,vs,South Carolina,14
+Mississippi State,35,vs,Texas A&M,28
+Missouri,11,at,West Virginia,26
+Missouri,21,at,South Carolina,31
+Missouri,26,vs,Vanderbilt,17
+Missouri,37,at,Tennessee,63
+Navy,21,at,Tulane,14
+Navy,45,at,South Florida,52
+Navy,28,vs,Notre Dame,27
+Navy,42,vs,Tulsa,40
+Navy,75,at,Southern Methodist,31
+Navy,10,vs,Temple,34
+Nebraska,52,vs,Wyoming,17
+Nebraska,35,vs,Oregon,32
+Nebraska,24,at,Northwestern,13
+Nebraska,27,vs,Purdue,14
+Nebraska,17,at,Wisconsin,23
+Nebraska,3,at,Ohio State,62
+Nebraska,24,vs,Tennessee,38
+Nevada,10,at,Notre Dame,39
+Nevada,14,at,Purdue,24
+Nevada,10,at,San Jose State,14
+Nevada,34,vs,Wyoming,42
+Nevada,26,at,New Mexico,35
+Nevada,16,vs,San Diego State,46
+Nevada,38,vs,Utah State,37
+Nevada,45,at,Nevada-Las Vegas,10
+Nevada-Las Vegas,21,at,UCLA,42
+Nevada-Las Vegas,7,at,San Diego State,26
+Nevada-Las Vegas,24,at,San Jose State,30
+Nevada-Las Vegas,69,vs,Wyoming,66
+New Mexico,31,at,New Mexico State,32
+New Mexico,28,at,Rutgers,37
+New Mexico,48,vs,San Jose State,41
+New Mexico,24,at,Utah State,21
+New Mexico,56,vs,Wyoming,35
+New Mexico,23,vs,Texas-San Antonio,20
+New Mexico State,22,at,Texas-El Paso,38
+New Mexico State,6,at,Troy,52
+New Mexico State,10,at,Texas A&M,52
+New Mexico State,50,vs,Texas State,10
+New Mexico State,28,at,South Alabama,35
+North Carolina,37,vs,Pittsburgh,36
+North Carolina,3,vs,Virginia Tech,34
+North Carolina,35,at,Virginia,14
+North Carolina,21,vs,North Carolina State,28
+North Carolina,23,vs,Stanford,25
+North Carolina State,49,vs,Old Dominion,22
+North Carolina State,33,vs,Wake Forest,16
+North Carolina State,10,vs,Notre Dame,3
+North Carolina State,35,at,Syracuse,20
+North Carolina State,41,vs,Vanderbilt,17
+North Texas,21,vs,Southern Methodist,34
+North Texas,42,at,Rice,35
+North Texas,17,at,Texas-San Antonio,31
+North Texas,7,at,Western Kentucky,45
+North Texas,29,vs,Southern Mississippi,23
+North Texas,24,at,Texas-El Paso,52
+Northern Illinois,34,at,Wyoming,40
+Northern Illinois,17,at,South Florida,48
+Northern Illinois,28,vs,San Diego State,42
+Northern Illinois,30,at,Western Michigan,45
+Northern Illinois,24,vs,Toledo,31
+Northwestern,21,vs,Western Michigan,22
+Northwestern,20,at,Ohio State,24
+Northwestern,7,vs,Wisconsin,21
+Northwestern,45,at,Purdue,17
+Northwestern,31,vs,Pittsburgh,24
+Notre Dame,47,at,Texas,50
+Notre Dame,50,at,Syracuse,33
+Notre Dame,10,vs,Stanford,17
+Notre Dame,31,vs,Virginia Tech,34
+Notre Dame,27,at,Southern California,45
+Ohio,54,vs,Texas State,56
+Ohio,19,at,Tennessee,28
+Ohio,31,at,Toledo,26
+Ohio,23,vs,Western Michigan,29
+Ohio,23,vs,Troy,28
+Ohio State,48,vs,Tulsa,3
+Ohio State,45,at,Oklahoma,24
+Ohio State,58,vs,Rutgers,0
+Ohio State,30,at,Wisconsin,23
+Ohio State,21,at,Penn State,24
+Oklahoma,52,at,Texas Christian,46
+Oklahoma,45,vs,Texas,40
+Oklahoma,66,at,Texas Tech,59
+Oklahoma,56,at,West Virginia,28
+Oklahoma,38,vs,Oklahoma State,20
+Oklahoma State,45,vs,Pittsburgh,38
+Oklahoma State,49,vs,Texas,31
+Oklahoma State,37,vs,West Virginia,20
+Oklahoma State,45,vs,Texas Tech,44
+Oklahoma State,31,at,Texas Christian,6
+Old Dominion,33,vs,Texas-San Antonio,19
+Old Dominion,24,at,Western Kentucky,59
+Old Dominion,31,at,Texas-El Paso,21
+Old Dominion,51,vs,Southern Mississippi,35
+Oregon,44,vs,Virginia,26
+Oregon,33,at,Washington State,51
+Oregon,21,vs,Washington,70
+Oregon,20,at,Southern California,45
+Oregon,27,vs,Stanford,52
+Oregon,30,at,Utah,28
+Oregon,24,at,Oregon State,34
+Oregon State,14,vs,Utah,19
+Oregon State,17,at,Washington,41
+Oregon State,31,vs,Washington State,35
+Oregon State,15,at,Stanford,26
+Oregon State,24,at,UCLA,38
+Penn State,39,at,Pittsburgh,42
+Penn State,34,vs,Temple,27
+Penn State,62,at,Purdue,24
+Penn State,39,at,Rutgers,0
+Penn State,38,vs,Wisconsin,31
+Penn State,49,vs,Southern California,52
+Pittsburgh,45,at,Virginia,31
+Pittsburgh,36,vs,Virginia Tech,39
+Pittsburgh,76,vs,Syracuse,61
+Purdue,20,vs,Wisconsin,49
+Rice,14,at,Western Kentucky,46
+Rice,28,at,Southern Mississippi,44
+Rice,13,vs,Texas-San Antonio,14
+Rice,44,vs,Texas-El Paso,24
+Rice,17,at,Stanford,41
+Rutgers,13,at,Washington,48
+San Diego State,24,at,South Alabama,42
+San Diego State,42,vs,San Jose State,3
+San Diego State,40,at,Utah State,13
+San Diego State,33,at,Wyoming,34
+San Diego State,27,vs,Wyoming,24
+San Jose State,10,vs,Tulsa,45
+San Jose State,17,vs,Utah,34
+South Alabama,21,vs,Troy,28
+South Carolina,13,at,Vanderbilt,10
+South Carolina,13,vs,Texas A&M,24
+South Carolina,24,vs,Tennessee,21
+South Carolina,39,vs,South Florida,46
+South Florida,45,at,Syracuse,20
+South Florida,30,at,Temple,46
+South Florida,35,at,Southern Methodist,27
+Southern California,45,vs,Utah State,7
+Southern California,10,at,Stanford,27
+Southern California,27,at,Utah,31
+Southern California,26,at,Washington,13
+Southern California,36,at,UCLA,14
+Southern Methodist,3,vs,Texas Christian,33
+Southern Methodist,20,at,Temple,45
+Southern Methodist,40,at,Tulsa,43
+Southern Methodist,35,at,Tulane,31
+Southern Mississippi,31,vs,Troy,37
+Southern Mississippi,34,at,Texas-El Paso,7
+Southern Mississippi,32,at,Texas-San Antonio,55
+Stanford,22,at,UCLA,13
+Stanford,6,at,Washington,44
+Stanford,16,vs,Washington State,42
+Syracuse,9,at,Wake Forest,28
+Syracuse,31,vs,Virginia Tech,17
+Temple,31,at,Tulane,0
+Temple,26,vs,Wake Forest,34
+Tennessee,45,vs,Virginia Tech,24
+Tennessee,38,at,Texas A&M,45
+Tennessee,34,at,Vanderbilt,45
+Texas,41,vs,Texas-El Paso,7
+Texas,45,at,Texas Tech,37
+Texas,20,vs,West Virginia,24
+Texas,9,vs,Texas Christian,31
+Texas A&M,31,vs,UCLA,24
+Texas A&M,23,vs,Texas-San Antonio,10
+Texas Christian,10,at,West Virginia,34
+Texas Christian,24,vs,Texas Tech,27
+Texas State,7,vs,Troy,40
+Texas Tech,17,vs,West Virginia,48
+Texas-El Paso,52,at,Texas-San Antonio,49
+Toledo,35,at,Western Michigan,55
+Tulane,3,at,Wake Forest,7
+Tulane,27,at,Tulsa,50
+UCLA,21,at,Washington State,27
+UCLA,45,vs,Utah,52
+Utah,24,vs,Washington,31
+Utah State,28,at,Wyoming,52
+Vanderbilt,31,at,Western Kentucky,30
+Virginia,20,at,Wake Forest,27
+Virginia,10,at,Virginia Tech,52
+Washington,45,at,Washington State,17
+Western Michigan,16,vs,Wisconsin,24
