@@ -1,0 +1,150 @@
+# Core FastAPI and web framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+gunicorn==21.2.0
+
+# Database and ORM
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.12.1
+
+# Shopify integration
+ShopifyAPI==12.4.0
+pyactiveresource==2.2.2
+
+# AI and Machine Learning
+openai==1.3.7
+langchain==0.0.340
+langchain-openai==0.0.2
+numpy==1.24.4
+pandas==2.1.3
+scikit-learn==1.3.2
+
+# HTTP clients and web scraping
+aiohttp==3.9.1
+httpx==0.25.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Data processing and analysis
+python-dateutil==2.8.2
+pytz==2023.3
+regex==2023.10.3
+
+# Authentication and security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+cryptography==41.0.8
+
+# Environment and configuration
+python-dotenv==1.0.0
+pydantic[email]==2.5.0
+pydantic-settings==2.0.3
+
+# Async and concurrency
+asyncio-mqtt==0.16.1
+aiofiles==23.2.1
+asyncpg==0.29.0
+
+# Monitoring and logging
+structlog==23.2.0
+rich==13.7.0
+sentry-sdk[fastapi]==1.38.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2  # For testing FastAPI
+factory-boy==3.3.0
+
+# Development tools
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0
+mypy==1.7.1
+pre-commit==3.5.0
+
+# Deployment and production
+redis==5.0.1
+celery==5.3.4
+flower==2.0.1
+
+# Data validation and serialization
+marshmallow==3.20.1
+jsonschema==4.20.0
+
+# Image processing (for product images)
+Pillow==10.1.0
+
+# Caching
+python-memcached==1.59
+
+# Rate limiting
+slowapi==0.1.9
+
+# CORS and middleware
+python-cors==1.7.0
+
+# Email integration
+sendgrid==6.10.0
+emails==0.6.0
+
+# Webhooks verification
+webhooks==0.7.0
+
+# Time and scheduling
+apscheduler==3.10.4
+croniter==2.0.1
+
+# File handling
+openpyxl==3.1.2
+python-magic==0.4.27
+
+# Network and utilities
+dnspython==2.4.2
+validators==0.22.0
+
+# Performance monitoring
+psutil==5.9.6
+memory-profiler==0.61.0
+
+# Social media integration (for team data)
+tweepy==4.14.0
+facebook-sdk==3.1.0
+
+# Sports data APIs (optional)
+espn-api==0.6.2
+
+# Vector database for AI embeddings
+chromadb==0.4.18
+sentence-transformers==2.2.2
+
+# Graph analysis (for relationship mapping)
+networkx==3.2.1
+
+# Fuzzy string matching (for team name matching)
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+
+# JSON Web Tokens
+PyJWT==2.8.0
+
+# Workflow orchestration
+prefect==2.14.10
+
+# API documentation
+sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+
+# Configuration management
+dynaconf==3.2.4
+
+# Geolocation (for regional team preferences)
+geopy==2.4.0
+
+# Data visualization (for analytics endpoints)
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
